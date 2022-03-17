@@ -5,10 +5,10 @@ In this study we will apply neural networks to recognize the images of handwritt
 
 ## Table of content
 
-- [Introduction](https://github.com/AgustinCarcelen/getafix/blob/main/README.md#introduction)
-- [Neural Network](https://github.com/AgustinCarcelen/getafix/blob/main/README.md#neural-network)
-- [Convolutional Network](https://github.com/AgustinCarcelen/getafix/blob/main/README.md#convolutional-network)
-- [Extra](https://github.com/AgustinCarcelen/getafix/blob/main/README.md#extra)
+- [Introduction](https://github.com/AgustinCarcelen/Image-Recognition-with-Neural-Network/edit/main/README.md#introduction)
+- [Neural Network](https://github.com/AgustinCarcelen/Image-Recognition-with-Neural-Network/edit/main/README.md#neural-network)
+- [Convolutional Network](https://github.com/AgustinCarcelen/Image-Recognition-with-Neural-Network/edit/main/README.md#convolutional-network)
+- [Extra](https://github.com/AgustinCarcelen/Image-Recognition-with-Neural-Network/edit/main/README.md#extra)
 
 ## Introduction
 Image recognition is a process executed by artificial intelligence software capable of recognizing images using complex mathematical algorithms. AI is capable of identifying, analyzing and comparing the bit arrays that make up a digital image, with the aim of carrying out some action based on the information obtained.<BR>
