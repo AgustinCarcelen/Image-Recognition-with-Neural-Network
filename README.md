@@ -31,4 +31,4 @@ This time we have achieved an accuracy of more than 99%.
 ## Extra
   - [Useful links](https://github.com/AgustinCarcelen/Image-Recognition-with-Neural-Network/tree/main/Useful%20links) -> Here you have several links with all the information collected to carry out these two networks.<BR>
   - [Trello](https://trello.com/b/uc0wNm7h/image-recognition) -> Here you can find the process carried out day by day.<BR>
-  - [Presentation](https://slides.com/agustincarcelenchicote/code-8ae58c) -> Here you can find the presentation of the project.
+  - [Presentation](https://slides.com/agustincarcelenchicote/code-7eb319) -> Here you can find the presentation of the project.
